@@ -1,2 +1,4 @@
 # AleitamentoMaterno
-Para seguir praticando alguns códigos, escolhi criar a partir de um assunto do meu dia-a-dia e criei este simples código para calcular uma média de leite que a minha filha tem consumido no primeiro mês de vida dela.
+Pensando em seguir praticando alguns códigos, escolhi criar algo relacionado a um assunto do meu dia-a-dia e fiz este simples código para calcular uma média de leite que 
+
+a minha filha tem consumido no seu primeiro mês de vida.
